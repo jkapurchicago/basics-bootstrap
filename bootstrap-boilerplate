@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Boot strap Basics</title>
+    <link rel ="stylesheet" type="text/css" href="bootstrap.css"> 
+  </head>
+  <body>
+  <h1> Bootstrap Basics <h1> 
+
+  </body>
+</html>
